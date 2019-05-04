@@ -15,3 +15,5 @@ Adding purpose here
 Adding deployment content here 
 
 ##How to contribute
+
+##copyright
