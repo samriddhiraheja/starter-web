@@ -8,6 +8,10 @@ Hi this is an example introduction
 
 ##Purpose
 
+Adding purpose here
+
 ##Deployment
+
+Adding deployment content here 
 
 ##How to contribute
