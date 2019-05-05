@@ -1,5 +1,5 @@
 #Starter Web Project
-Adding more text for rebasing
+Adding more text for hello
 This is a simple website example project for learning GIT and GITHUB
 ONE MORE LINE
 ##Introduction
